@@ -5,6 +5,7 @@ class TclTk < Formula
   mirror "ftp://ftp.tcl.tk/pub/tcl/tcl8_6/tcl8.6.6-src.tar.gz"
   version "8.6.6"
   sha256 "a265409781e4b3edcc4ef822533071b34c3dc6790b893963809b9fe221befe07"
+  revision 1
 
   bottle do
     rebuild 1
