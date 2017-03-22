@@ -34,8 +34,8 @@ class TclTk < Formula
   end
 
   resource "tcllib" do
-    url "https://github.com/tcltk/tcllib/archive/tcllib_1_18.tar.gz"
-    sha256 "9988b4385403c2aac78743fd3fce2d22e82686a56e6ca25942cb83c7d9e641db"
+    url "https://downloads.sourceforge.net/project/tcllib/tcllib/1.18/tcllib-1.18.tar.gz"
+    sha256 "72667ecbbd41af740157ee346db77734d1245b41dffc13ac80ca678dd3ccb515"
   end
 
   # sqlite won't compile on Tiger due to missing function;
